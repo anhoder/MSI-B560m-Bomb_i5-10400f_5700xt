@@ -44,3 +44,6 @@ USB已定制，其实爆破弹这块板不定制也不会超过15个😂
 
 <img src="./resources/5.jpg" alt="5" style="zoom:50%;" />
 
+### 睡眠偶尔唤醒问题解决
+
+https://www.tonymacx86.com/threads/solved-ventura-random-scheduled-pm-wake-from-sleep.323359/
