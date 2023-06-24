@@ -47,3 +47,8 @@ USB已定制，其实爆破弹这块板不定制也不会超过15个😂
 ### 睡眠偶尔唤醒问题解决
 
 https://www.tonymacx86.com/threads/solved-ventura-random-scheduled-pm-wake-from-sleep.323359/
+
+### 单硬盘双系统优先启动Windows问题
+
+1. 使用EasyUEFI增加启动项
+2. 在BIOS的Boot Option把OpenCore改为第一
